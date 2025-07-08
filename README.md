@@ -73,7 +73,7 @@ You’ll see printed results of test cases and actions.
 ## 🖼️ Output Screenshot
 
 ```markdown
-![Console Output](screenshots/output-example.png)
+![Console Output](WhatsApp Image 2025-07-08 at 20.37.54_c57a1abe.png)
 ```
 
 ---
