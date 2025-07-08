@@ -72,18 +72,6 @@ You’ll see printed results of test cases and actions.
 
 ## 🖼️ Output Screenshot
 
-> You can add an image here showing console output after running the program:
-
-```
-Quantum book store > Removed outdated book: Ancient Manuscript
-Quantum book store > Sending 'Clean Code' to address: 123 Main St
-Quantum book store > Sold 2x Clean Code for 600
-Quantum book store > Sending 'Deep Learning.pdf' to email: user@example.com
-Quantum book store > Sold 1x Deep Learning for 200
-Quantum book store > ERROR: This book is not for sale.
-```
-
-👉 **Add your image here**:
 ```markdown
 ![Console Output](screenshots/output-example.png)
 ```
@@ -106,18 +94,8 @@ Quantum book store > ERROR: This book is not for sale.
 ## 🔧 Tech Stack
 
 - Language: C#
-- Framework: .NET 7 / .NET 6 (works with any recent SDK)
+- Framework: .NET 9
 - Design: Object-Oriented Programming, Extensible Architecture
-
----
-
-## 📚 Future Improvements
-
-- Persist inventory to database or file
-- Unit tests using xUnit or NUnit
-- GUI or Web API interface
-- Order history tracking
-- Authentication system for customers
 
 ---
 
