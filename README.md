@@ -72,9 +72,8 @@ You’ll see printed results of test cases and actions.
 
 ## 🖼️ Output Screenshot
 
-```markdown
+
 ![Console Output](https://raw.githubusercontent.com/omar-28-2/QuantumBookStore/main/screenshots/output-screenshot.png)
-```
 
 ---
 
